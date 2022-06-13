@@ -10,11 +10,12 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background: url(https://cdn130.picsart.com/319866145037201.gif?to=min&r=480);
 }
 
 .right {
   right: 0;
+  background-color: #f2f4f3;
 }
 
 .centered {
